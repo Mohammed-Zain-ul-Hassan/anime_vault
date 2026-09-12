@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/framer-motion",
+    "feat/infinite-scroll",
+    "main"
+  ],
+  "parent": {
+    "feat/framer-motion": "main",
+    "feat/infinite-scroll": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "feat/framer-motion",
+    "feat/infinite-scroll"
+  ]
+}
